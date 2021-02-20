@@ -1,0 +1,14 @@
+{
+    "name": "genhera",
+    "description": "メンヘラ文章ジェネレーター",
+    "version": "1.0.0",
+    "author": "YamaD <yamad@submarin.online>",
+    "dependencies": {
+        "@submarin/generator": "^1.x"
+    },
+    "files": [
+        "dict"
+    ],
+    "license": "MIT",
+    "main": "index.js"
+}
