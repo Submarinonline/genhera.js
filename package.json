@@ -1,7 +1,7 @@
 {
     "name": "genhera",
     "description": "メンヘラ文章ジェネレーター",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "author": "YamaD <yamad@submarin.online>",
     "dependencies": {
         "@submarin/generator": "^1.x"
